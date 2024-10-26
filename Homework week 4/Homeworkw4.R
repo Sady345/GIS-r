@@ -1,5 +1,3 @@
-#you can run commands in here or in the console 
-#in the terminal you can check which version of git you have and where your git installation is. 
 
 library(usethis) 
 #you can use this to create a github token. 
@@ -84,7 +82,7 @@ tmap_mode("plot")
             midpoint = NA) + 
     tm_borders() 
  
-# I am not sure if this will be reproducible but I you can try :)
+# I am not sure if this will be reproducible but you can try :)
 
   
   
